@@ -4561,10 +4561,11 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <label x="167.64" y="43.18" size="1.778" layer="95" rot="MR0"/>
 </segment>
 </net>
-<net name="N$6" class="0">
+<net name="TX5" class="0">
 <segment>
 <pinref part="U1" gate="A" pin="TX5"/>
 <wire x1="167.64" y1="63.5" x2="154.94" y2="63.5" width="0.1524" layer="91"/>
+<label x="167.64" y="63.5" size="1.778" layer="95" rot="MR0"/>
 </segment>
 </net>
 <net name="TX4" class="0">
